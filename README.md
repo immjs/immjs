@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **nothing**
 - 💬 Ask me about **everything <sub>that would be JS related</sub>**
 
-- 📫 How to reach me: **`me at my domain` and my domain would be `immjs.dev`**
+- 📫 How to reach me: **`me at my domain` and my domain would be [`immjs.dev`](https://immjs.dev)**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **The ampersand & is derived from the word Et, which is latin (and french) for "and"**
