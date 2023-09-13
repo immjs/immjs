@@ -35,7 +35,7 @@ immjs is derived from my prior nickname InforMatheMusic, which is itself derived
 - 📆 I am looking forward to:
   - **any free time I can spend on Plurriel**<br/>
   🕓 From September 4 2023, CEST 8:30 AM<br/>
-  🏃 To August 20 2023
+  🏃 To October 20 2023
 
 - 🤩 My role model is
   - currently **[osk](https://osk.sh) as you can see from my pfp**
