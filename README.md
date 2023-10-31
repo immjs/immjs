@@ -5,7 +5,7 @@
 
 Hi!
 
-I'm immjs, a french teenager developer. My knowledge revolves a lot around web development (HTML/CSS, React, Vue, Node.JS, TS) and I am pretty good at [Tetris](https://tetr.io) with currently a B rank
+I'm immjs, a french teenager developer. My knowledge revolves a lot around web development (HTML/CSS, React, Vue, Node.JS, TS) and I am pretty good at [TETR.IO](https://tetr.io) with currently a B rank
 
 I guess there's not much else about me....
 
