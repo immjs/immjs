@@ -5,7 +5,7 @@
 
 Hi!
 
-I'm immjs, a french teenager developer. My knowledge revolves a lot around web development (HTML/CSS, React, Vue, Node.JS, TS) and I am pretty good at [code clashes](https://codingame.com/multiplayer/clashofcode)
+I'm immjs, a french teenager developer. My knowledge revolves a lot around web development (HTML/CSS, React, Vue, Node.JS, TS) and I am pretty good at [Tetris](https://tetr.io) with currently a B rank
 
 I guess there's not much else about me....
 
@@ -35,7 +35,7 @@ immjs is derived from my prior nickname InforMatheMusic, which is itself derived
 - 📆 I am looking forward to:
   - **any free time I can spend on Plurriel**<br/>
   🕓 From September 4 2023, CEST 8:30 AM<br/>
-  🏃 To October 20 2023
+  🏃 To Probably in a long time lol
 
 - 🤩 My role model is
   - currently **[osk](https://osk.sh) as you can see from my pfp**
