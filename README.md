@@ -9,7 +9,7 @@ I'm immjs, a french teenager developer. My knowledge revolves a lot around web d
 
 I guess there's not much else about me....
 
-- 🔭 I’m currently working on **Plurriel, a mail client that lets you receive emails from all addresses on your domain - for free! (reach out for beta testing!)**
+- 🔭 I’m currently working on **Plurriel, a mail client that lets you receive emails from all addresses on your domain - for free! Now generally available**
 - 🌱 I’m currently learning **the React ecosystem**
 - 👯 I’m looking to collaborate on **Plurriel, please feel free to reach out if you would like to!**
 
