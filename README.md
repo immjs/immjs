@@ -1,7 +1,7 @@
 ![](./banner.png)
 
 # Informa <br/><sub>(immjs)</sub>
-**he/him • CEST • 🇬🇧/🇫🇷/🇨🇳**
+**she/her • CEST • 🇬🇧/🇫🇷/🇨🇳**
 
 Hi!
 
